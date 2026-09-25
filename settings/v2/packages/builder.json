@@ -1,0 +1,13 @@
+{
+  "__version__": "1.3.9",
+  "splash-setting": {
+    "logo": {
+      "image": "project://settings/logo.png",
+      "type": "custom"
+    },
+    "displayRatio": 1.5,
+    "background": {
+      "type": "color"
+    }
+  }
+}
